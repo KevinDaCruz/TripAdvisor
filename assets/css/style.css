@@ -1,0 +1,25 @@
+body {
+  font-family: TS-Reg, sans-serif;
+}
+
+header {
+  border-bottom: 1px solid lightgrey;
+}
+
+.container {
+  width: 1096px;
+  margin: 0 auto;
+}
+
+.main-img {
+  display: flex;
+  margin-top: 10px;
+  height: 43px;
+  width: 192px;
+  object-fit: cover;
+}
+
+.header-menu {
+  display: flex;
+  justify-content: end;
+}
